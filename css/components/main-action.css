@@ -1,0 +1,13 @@
+.main-action {
+  display: inline-flex;
+  text-align: left;
+ margin-left: 50px;
+ margin-top: 48px;
+ text-decoration: none;
+ font-family: 'Poppins';
+ color: black;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal
+}

@@ -1,0 +1,17 @@
+.wrapper-icons {
+display: flex;
+justify-content: center;
+margin-top: 50px;
+} 
+
+.wrapper-icons::before{
+  content: '';
+  position: absolute;
+  width: 1px;
+  height: 24px;
+  background-color: #1E1E1E;
+  transform: translateX(65px);
+  
+}
+  
+

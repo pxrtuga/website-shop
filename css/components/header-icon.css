@@ -1,0 +1,10 @@
+.header-icon {
+  background-color: #FFF;
+  padding: 0px;
+  margin-left: 50px;
+  cursor: pointer;
+}
+
+.header-icon.-menu {
+margin-left: 120px;
+}
