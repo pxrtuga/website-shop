@@ -1,0 +1,10 @@
+.main-section {
+  display: flex;
+  flex-direction: column;
+  background-color: #C1DCDC;
+  margin: auto;
+  margin-top: 50px;
+  width: 1250px;
+  height: 510px;
+  border-radius: 25px;
+}

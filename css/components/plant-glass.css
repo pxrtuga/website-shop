@@ -1,0 +1,16 @@
+.plant-glass {
+position: absolute;
+left: 20%;
+bottom: 0%;
+  
+}
+
+ .plant-box {
+position: absolute;
+left: 55%;
+bottom: 30.5%;
+background-color: black;
+width: 450px;
+height: 400px;
+border-radius: 200px 200px 0px 200px;
+}

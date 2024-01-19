@@ -1,8 +1,21 @@
 .main-title {
-font-family: 'Instrument Serif';
+font-family: serif;;
 font-size: 35px;
 font-style: normal;
-font-weight: 400;
+font-weight: 450;
 line-height: normal;
 margin-top: 45px;
+}
+
+
+.main-title.-second {
+color: #000;
+font-family: Poppins;
+font-size: 64px;
+font-style: normal;
+font-weight: 800;
+line-height: 64px;
+margin: 0;
+padding-left: 50px;
+padding-top: 50px;
 }

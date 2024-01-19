@@ -1,0 +1,33 @@
+.search-box {
+  width: 450px;
+  height: 61px;
+  border-radius: 12px;
+  background-color: #fff;
+  margin-top: 50px;
+  margin-left: 50px; 
+  display: flex;
+}
+
+.search {
+margin:18px 0px 18px 18px;
+width: 350px;
+border: 0;
+outline: none;
+text-align: left;
+font-family: 'poppins',sans-serif;
+}
+
+.lens {
+margin: 10px 25px;
+background-color: #C1DCDC;
+width: 40px;
+height: 40px;
+border-radius: 12px;
+text-align: center;
+cursor: pointer;
+}
+
+.lens-inside {
+  margin-top: 6px;
+}
+
