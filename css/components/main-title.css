@@ -1,5 +1,5 @@
 .main-title {
-font-family: serif;;
+font-family: serif;
 font-size: 35px;
 font-style: normal;
 font-weight: 450;
@@ -8,7 +8,7 @@ margin-top: 45px;
 }
 
 
-.main-title.-second {
+.title-second {
 color: #000;
 font-family: 'Poppins';
 font-size: 64px;
