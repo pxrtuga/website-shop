@@ -1,0 +1,11 @@
+.node-card {
+  position: absolute;
+  left: 27%;
+  margin-bottom: 110px;
+  
+}
+
+.price-card{
+  display: inline-block;
+  margin-left: 50px;
+}

@@ -1,0 +1,17 @@
+.main-button {
+
+background-color: #C1DCDC;
+padding: 12px 24px;
+border-radius: 8px;
+font-family: 'Poppins';
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+cursor: pointer;
+}
+
+.button-arrow {
+  padding-left: 10px;
+  transform: translateY(4px);
+}

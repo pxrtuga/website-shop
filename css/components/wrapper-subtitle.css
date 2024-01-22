@@ -32,3 +32,13 @@ line-height: normal;
 padding-left: 0;
 }
 
+.subtitle-third {
+font-family: 'Poppins';
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+opacity: 60%;
+padding-bottom: 25px;
+}
+

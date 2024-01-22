@@ -19,3 +19,11 @@ margin: 0;
 padding-left: 50px;
 padding-top: 50px;
 }
+
+.title-third {
+font-family: 'Poppins';
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
