@@ -1,0 +1,10 @@
+.about-us {
+  display: flex;
+  justify-content: center;
+}
+
+
+.about-card {
+  display:inline-block;
+  margin-left: 50px;
+}

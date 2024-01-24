@@ -13,5 +13,27 @@ margin-top: 50px;
   transform: translateX(65px);
   
 }
+
+.icon-about{
+  width:95px;
+  height: 95px;
+  background-color: #C1DCDC;
+  border-radius: 100px;
+  text-align: center;
+  margin-left: 125px;
+
+
+}
+
+.icon-about2 {
+  margin-top: 25px;
+}
+
+.img-about {
+  margin-left: 125px;
+}
+
+
+
   
 
