@@ -23,3 +23,8 @@
   margin: 280px 96px 165px 96px;
 }
 
+.fourth-section {
+  display: flex;
+flex-direction: column;
+}
+

@@ -1,0 +1,25 @@
+.categories {
+  width:100%;
+  height: 840px;
+  background-color: #C1DCDC;
+  margin-top: 60px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.categories-button {
+display: flex;
+flex-direction: column;
+position: absolute;
+bottom: -116em;
+}
+
+.plants-middle {
+  margin-top: 50px;
+  text-align: center;
+
+}
+
+.plants-both-sides {
+  margin-top: -50px;
+  text-align: center;
+}
